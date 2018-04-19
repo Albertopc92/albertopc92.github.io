@@ -15,6 +15,6 @@ github_username:  albertopc92
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-113821237-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
