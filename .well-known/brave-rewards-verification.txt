@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: albertopc.com
-Token: 361a3150afe5db46d753264a0f2b9d28b04af5d47a2967f28e12c1ed9a351292
